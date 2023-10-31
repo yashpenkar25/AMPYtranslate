@@ -1,6 +1,5 @@
 SpeechRecognition==3.8.1
 googletrans==4.0.0-rc1
 gtts==2.2.3
-PIL==8.2.0
 playsound==1.2.2
 streamlit==1.5.1
