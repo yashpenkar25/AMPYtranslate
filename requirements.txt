@@ -1,4 +1,4 @@
-speech_recognition==3.8.1
+SpeechRecognition==3.8.1
 googletrans==4.0.0-rc1
 gtts==2.2.3
 PIL==8.2.0
